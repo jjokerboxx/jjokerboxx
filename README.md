@@ -1,10 +1,11 @@
 ### 프론트엔드 공부중...
-
-<a href="https://velog.io/@whzjqkrtm12">
-    <img 
-        src="http://img.shields.io/badge/-9bd6a8?style=flat&logo=Vector Logo Zone&link=https://velog.io/@whzjqkrtm12"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<p>
+    <a href="https://velog.io/@whzjqkrtm12">
+        <img 
+            src="http://img.shields.io/badge/-9bd6a8?style=flat&logo=Vector Logo Zone&link=https://velog.io/@whzjqkrtm12"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+</p>
 
 ![jjokerboxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjokerboxx&show_icons=true&theme=dark)
 
