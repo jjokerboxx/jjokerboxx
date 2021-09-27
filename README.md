@@ -1,4 +1,4 @@
-### Hi there 👋
+### 프론트엔드 공부중...
 
 <a href="https://velog.io/@whzjqkrtm12">
     <img 
