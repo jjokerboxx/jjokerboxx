@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kyle%20Lee&desc=Frontend%20developer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kyle%20Lee&desc=Frontend%20developer&fontSize=90)
 
 ### 프론트엔드 공부중...
 <p>
