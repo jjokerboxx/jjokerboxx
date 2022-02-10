@@ -7,7 +7,7 @@
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
 </p>
-![Velog](https://velog.io/@whzjqkrtm12)
+
 
 ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylelee-js&show_icons=true&theme=dark)
 
