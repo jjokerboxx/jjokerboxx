@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kyle%20Lee&desc=Frontend%20developer&fontSize=90)
 
 <p>
-    <a href="https://velog.io/@whzjqkrtm12" style="text-decoration : none; color : white; font-size: 12px;">
+    <a href="https://velog.io/@whzjqkrtm12">
         <img 
             src="http://img.shields.io/badge/-9bd6a8?style=flat&logo=Vector Logo Zone&link=https://velog.io/@whzjqkrtm12"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-       
     </a>
 </p>
 [Velog](https://velog.io/@whzjqkrtm12)
