@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kyle%20Lee&desc=Frontend%20developer&fontColor=ffff&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kyle%20Lee&desc=Frontend%20developer&fontColor=ffff&fontSize=90)
 
 ### ✨ Account ✨
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:"dlrlgns58@gmail.com")
 [![velog](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@whzjqkrtm12)
-[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://paint-flower-5f0.notion.site/TIL-01687f28163d4864b7e0c6bf11268897)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000425378321)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kylelee-js)
 
 
