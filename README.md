@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kyle%20Lee&desc=Frontend%20developer&fontColor=ffff&fontSize=90)
 
+<div align="center">
+
 ### ✨ Account ✨
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:"dlrlgns58@gmail.com")
 [![velog](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@whzjqkrtm12)
@@ -28,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
